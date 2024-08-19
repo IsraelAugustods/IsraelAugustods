@@ -35,12 +35,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> &nbsp;
 </p> 
 
-###
+##
+
  <h3 align="left"> 📂 Meu portfólio </h3>
 <p>
- Acesse clicando <a href="https://sites.google.com/view/portfolioisraelaugusto/in%C3%ADcio">Neste Link</a>.
+ Acesse clicando <a href="https://sites.google.com/view/portfolioisraelaugusto/in%C3%ADcio">neste Link</a>.
  <p>Os projetos presentes em meu porfólio também estão disponíveis aqui no GitHub.</p>
 </p>
+
 
 
 ## <h3 align = "left"> 📱 Contato </h3> 
