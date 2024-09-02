@@ -8,6 +8,7 @@
  - 🔍 Trabalhei com análise de dados biológicos durante a graduação (Python e R).
  - 🪴 Atuei voluntariamente como bioinformata, trabalhando com API e ETL.
  - ❗Neste repositório, você encontrará trabalhos focados em ajudar empresas na sua tomada de decisão, a resolver problemas de negócios e a gerar valor a partir de dados.
+
 <h2 align="left">🖥 Tech Skills</h2>
 
 <p align="left">  
@@ -32,7 +33,7 @@
 <p>
  🧑🏽‍🔬 Você encontra meus projetos em Análise e Ciência de Dados: <a href="https://github.com/IsraelAugustods/portfolio">aqui!</a>
  
- <p>📈 Meus dashboards feitos no Power BI estão disponíveis de forma 100% interativa: <a href="https://sites.google.com/view/portfolioisraelaugusto/in%C3%ADcio">aqui!</a>.</p>
+ <p>📈 Meus dashboards feitos no Power BI estão disponíveis de forma 100% interativa: <a href="https://sites.google.com/view/portfolioisraelaugusto/in%C3%ADcio">aqui!</a></p>
 </p>
 
 
