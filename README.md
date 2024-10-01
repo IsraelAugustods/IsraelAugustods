@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Prazer, sou o Israel!✌️ </h1>
-<h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
+<h3 align="center">Este é meu repositório de Análise de Dados.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
@@ -31,7 +31,7 @@
 
  <h3 align="left"> 📂 Meu portfólio </h3>
 <p>
- 🧑🏽‍🔬 Você encontra meus projetos em Análise e Ciência de Dados: <a href="https://github.com/IsraelAugustods/portfolio">aqui!</a>
+ 🧑🏽‍🔬 Você encontra meus projetos em Análise de Dados: <a href="https://github.com/IsraelAugustods/portfolio">aqui!</a>
  
  <p>📈 Meus dashboards feitos no Power BI estão disponíveis de forma 100% interativa: <a href="https://sites.google.com/view/portfolioisraelaugusto/in%C3%ADcio">aqui!</a></p>
 </p>
